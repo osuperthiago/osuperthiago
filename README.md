@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**osuperthiago/osuperthiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my Github profile.
+## My name is Thiago Torres and my nickname is OSuperThiago!
 
-Here are some ideas to get you started:
+- 🔭 Currently i'm working on my QA and dev habilities.
+- 🌱 At this moment i'm learning Javascript and Automation API Test.
+- 👯 I`m looking to contribute as QA in software testing and developtment.
+- 🤔 Looking for help with intellij setup and dependencies(JDK setup it`s kinda confusing to me).
+- 📫 You can contact me by e-mail: osuperthiago@gmail.com
+- ⚡ Fun Factiosities: i'm also an electrical engineer and actor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and technologies 
+
+- Appium
+- Css
+- Cypress.io
+- Html
+- JMeter
+- JUnit
+- Java
+- Javscript
+- Jira
+- Postman
+- RestAssured
+- Selenium
+- TestComplete
+
