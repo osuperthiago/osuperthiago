@@ -26,3 +26,5 @@
 - Selenium
 - TestComplete
 
+![Snake animation](https://github.com/osuperthiago/osuperthiago/blob/output/github-contribution-grid-snake.svg)
+
